@@ -1,6 +1,5 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artmenlope&layout=compact&bg_color=30,e1eec3,f05053&title_color=000&text_color=000)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artmenlope&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github.com/artmenlope/artmenlope/blob/main/odeint_animation_loop.gif" width="16%">
 <!--
 **artmenlope/artmenlope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
