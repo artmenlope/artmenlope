@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artmenlope&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artmenlope&layout=compact&bg_color=30,e1eec3,f05053&title_color=000&text_color=000)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
